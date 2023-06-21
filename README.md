@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis Arthur</h1>
 <h3 align="center">Je me développe dans l'informatique, systèmes et réseaux</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zegamerc&label=Profile%20views&color=0e75b6&style=flat" alt="zegamerc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zegamerc&label=Profile%20views&color=7C00FF&style=for-the-badge" alt="zegamerc" /> </p>
 
 - 🔭 Je travaille actuellement sur [HwProxy](https://hwproxy.com), [HwCloud](https://hwcloud.fr)
 
